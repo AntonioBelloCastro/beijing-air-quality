@@ -9,9 +9,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Datos generados (no versionar, sólo raw se mantiene ligero en el repo)
-data/processed/*
-!data/processed/.gitkeep
 
 # Artefactos de modelos y notebooks
 *.pkl
